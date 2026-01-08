@@ -1,2 +1,1 @@
-amir = "amir"
-print(amir)
+
